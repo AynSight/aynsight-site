@@ -6,5 +6,5 @@ theme = "PaperMod"
 [params]
   defaultTheme = "Light"    # or "dark"
   ShowReadingTime = true
-  ShowbreadCrumbs = true
+  ShowBreadCrumbs = true
   ShowPostNavLinks = true
